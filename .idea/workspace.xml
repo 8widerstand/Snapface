@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="017aa821-a9d3-4ef7-b416-1ec769403072" name="Changes" comment="" />
+    <list default="true" id="017aa821-a9d3-4ef7-b416-1ec769403072" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "8widerstand"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/8widerstand/Snapface",
@@ -69,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753901945499</updated>
       <workItem from="1753901946592" duration="40214000" />
-      <workItem from="1754483570234" duration="301000" />
+      <workItem from="1754483570234" duration="969000" />
     </task>
     <servers />
   </component>
